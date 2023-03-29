@@ -1,7 +1,7 @@
 ![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanAderneF&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAderneF&layout=compact&progress=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-## Ferramentas utiizadas em meus projetos:
+## Ferramentas utilizadas em meus projetos:
 
 <div style="display: inline_block"><br/>
      <img aling="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
