@@ -4,6 +4,6 @@ Sou um programador voltado ao desenvolvimento de aplicações completas, como pr
 
 Meu progresso e tecnologias utilizadas:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanAderneF&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAderneF&size_weight=0.5&count_weight=0.5)
